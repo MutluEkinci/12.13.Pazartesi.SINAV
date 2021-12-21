@@ -1,0 +1,11 @@
+Soru1:Kullanıcı tarafından girilen herhangi bir metin(string) ifadeyi ASCII karakter 
+tablosundaki numeric coda çevirip döndüren metodu yazınız.(20 puan)
+
+Soru2:Kullanıcı tarafından metoda parametre olarak gönderilen karakterlerin 
+yine kullanıcı tarafından gönderilen bir metin içerisindeki frekanslarını
+bulan metodu yazınız.(40 puan)
+
+Soru3:Bir metoda parametre olarak gönderilen 100 elemanlı bir tamsayı dizisi 
+içerisindeki sayılardan 5 veya 4'un katları olan sayıları bulan metodu yazınız.
+(100 elemanlı diziyi oluşturmak da sizin göreviniz.)
+
